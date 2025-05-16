@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "astrojs",
+    "email": “yatharth.roy2013@gmail.com"
+  },
+  "records": {
+    "CNAME": "astrojs.is-a.dev"
+  },
+  "proxied": true
+}
